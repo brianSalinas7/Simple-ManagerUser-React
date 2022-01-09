@@ -1,0 +1,12 @@
+
+.listItem{
+    margin-bottom: 5px;
+    list-style: none;
+    background-color: rgba(192, 196, 199, 0.15);
+    padding: 15px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
